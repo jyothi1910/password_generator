@@ -1,3 +1,4 @@
+[random_password_generator.txt](https://github.com/jyothi1910/password_generator/files/6681832/random_password_generator.txt)
 # password_generator
 Password_generator using python
 import random 
