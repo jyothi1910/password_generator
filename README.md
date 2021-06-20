@@ -18,4 +18,3 @@ for x in temp_pass:
 		
 print(password)
 
-[sample_write.txt](https://github.com/jyothi1910/password_generator/files/6681799/sample_write.txt)
